@@ -5,5 +5,8 @@ Git tracks changes.
 
 2020-02-29 20:24 add by yub
 
-Creating a new branch is quick.
-Creating a new branch is quick AND simple.
+
+Creating a new branch is quick and simple.
+
+
+Fixed a bug
